@@ -16,6 +16,18 @@ All of the enhancement and feature requests for _[Medusa](https://medusajs.com/)
    - [API: Cancel a batch operation](#3-api-cancel-a-batch-operation)
    - [API: List batch operations](#4-api-list-batch-operations)
    - [API: Get a batch job](#5-api-get-a-batch-job)
+   - [API: Create a batch operation](#6-api-create-a-batch-operation)
+   - [Implement OrderExportHandler](#7-implement-orderexporthandler)
+   - [Implement ProductImportHandler](#8-implement-productimporthandler)
+   - [Batch job *Handlers](#9-batch-job-handlers)
+   - [BatchJob entity model](#10-batchjob-entity-model)
+   - [Add DELETE /store/auth to @medusajs/medusa-js](#11-add-delete-storeauth-to-medusajsmedusa-js)
+   - [WebSocket/Server sent events implementation](#12-websocketserver-sent-events-implementation)
+   - [Update FileService to allow for protected uploads/downloads + streaming](#13-update-fileservice-to-allow-for-protected-uploadsdownloads--streaming)
+   - [Implement BatchJobService](#14-implement-batchjobservice)
+   - [Add POST/DELETE /admin/collections/:id/products/batch endpoints to @medusajs/medusa-js and medusa-react](#15-add-postdelete-admincollectionsidproductsbatch-endpoints-to-medusajsmedusa-js-and-medusa-react)
+   - [Enhancement: Ability to use admin middleware in custom APIs](#16-enhancement-ability-to-use-admin-middleware-in-custom-apis)
+   - [Select discount.rule.valid_for products by collection, type, and tags](#17-select-discountrulevalid_for-products-by-collection-type-and-tags)
 
 ## Non-Code Enhancement/Feature Requests
 
@@ -180,5 +192,153 @@ Response
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1274">
 - **Standard**: _Unpaid_
 - **[Issue Link](https://github.com/medusajs/medusa/issues/1274)**
+
+---
+
+### **6. API: Create a batch operation**
+
+Creates a batch operation. The type of batch operation determines what should be included in the context. If the batch job is created with dry_run: true final confirmation through /batch/:id/complete will be required before the final data is uploaded to the DB.
+
+- **Posted by**: _[@srindom](https://github.com/srindom)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1273">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/medusajs/medusa/issues/1273)**
+
+---
+
+### **7. Implement OrderExportHandler**
+
+
+add OrderExportHandler class for processing orders batch export which implements the common batch job handler interface
+
+depends on: [#1264](https://github.com/medusajs/medusa/issues/1264)
+
+- **Posted by**: _[@fPolic](https://github.com/fPolic)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1267">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/medusajs/medusa/issues/1267)**
+
+---
+
+### **8. Implement ProductImportHandler**
+
+add ProductImportHandler class for processing products batch import which implements the common batch job handler interface
+depends on: [#1264](https://github.com/medusajs/medusa/issues/1264)
+
+- **Posted by**: _[@fPolic](https://github.com/fPolic)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1265">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/medusajs/medusa/issues/1265)**
+
+---
+
+### **9. Batch job *Handlers**
+
+- add support for loading *Handler classes into the Awilix container
+   - Awiilix container is allowed to have a single instance of each type of handler
+   - enable custom batch job types/handlers from plugins by identifying service using BatchJob type
+- create a common interface that batch job handlers implement:
+
+- **Posted by**: _[@fPolic](https://github.com/fPolic)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1264">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/medusajs/medusa/issues/1264)**
+
+---
+
+### **10. BatchJob entity model**
+
+We should introduce a new BatchJob entity to model the status of a batch upload job (unit of batch upload or download work).
+
+- **Posted by**: _[@fPolic](https://github.com/fPolic)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1263">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/medusajs/medusa/issues/1263)**
+
+---
+
+### **11. Add DELETE /store/auth to @medusajs/medusa-js**
+
+
+In medusa-js, add signOut() to the [store AuthResource](https://github.com/medusajs/medusa/blob/master/packages/medusa-js/src/resources/auth.ts).
+
+- **Posted by**: _[@olivermrbl](https://github.com/olivermrbl)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1094">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/medusajs/medusa/issues/1094)**
+
+---
+
+### **12. WebSocket/Server sent events implementation**
+
+
+We want to implement some notion of server transmitted data, as we want to be able to transmit to the client when a batch job is completed, and as an example notify that a file is now ready to be downloaded. Should expandable upon later, such as pushing a notification when a user is mentioned in a comment on an order, etc.
+
+Part of this ticket is investigating how we should approach this, as WebSocket/SSE is not very "RESTy". One idea would be to subscribe to an event, and when detected push to the client "you should GET /admin/batch/<some_id>", to keep it slim and still make use of the existing RESTFUL API.
+
+- **Posted by**: _[@kasperkristensen](https://github.com/kasperkristensen)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1270">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/medusajs/medusa/issues/1270)**
+
+---
+
+### **13. Update FileService to allow for protected uploads/downloads + streaming**
+
+
+Part of this ticket is to research how providers such as S3, DO, etc. so the FileService can serve as an abstraction over how these handle protected upload/downloads and streaming.
+   - Update the current FileService to allow for protected uploads/downloads.
+   - Also update the service so files can be streamed
+
+- **Posted by**: _[@kasperkristensen](https://github.com/kasperkristensen)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1269">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/medusajs/medusa/issues/1269)**
+
+---
+
+### **14. Implement BatchJobService**
+
+Add a BatchJobService.
+
+- **Posted by**: _[@kasperkristensen](https://github.com/kasperkristensen)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1268">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/medusajs/medusa/issues/1268)**
+
+---
+
+### **15. Add POST/DELETE /admin/collections/:id/products/batch endpoints to @medusajs/medusa-js and medusa-react**
+
+The new batch endpoints introduced by [#1032](https://github.com/medusajs/medusa/pull/1032) are missing in the client and medusa-react.
+
+- **Posted by**: _[@srindom](https://github.com/srindom)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1089">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/medusajs/medusa/issues/1089)**
+
+---
+
+### **16. Enhancement: Ability to use admin middleware in custom APIs**
+
+It appears that right now all custom APIs are insecure by default. It would be nice if I could reuse the same middleware that the admin api uses in my custom api.
+
+- **Posted by**: _[@dwene](https://github.com/dwene)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F859">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/medusajs/medusa/issues/859)**
+
+---
+
+### **17. Select discount.rule.valid_for products by collection, type, and tags**
+
+We should allow users to select a discount's applicable products by collection, type, and tags.
+
+More to come
+
+- **Posted by**: _[@olivermrbl](https://github.com/olivermrbl)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F419">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/medusajs/medusa/issues/419)**
 
 ---
