@@ -107,3 +107,425 @@ The horizontal scrollbar might be set to stick at the page bottom if it would be
 - **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1693)**
 
 ---
+
+### **6. Create non root docker image**
+
+If you're requesting a new feature/enhancement, explain why you'd like it to be added and it's importance.
+
+It is not a good practise to run a docker image as root. It would be a good improvement to build this image with a lower privilege user, MobSF
+
+- **Posted by**: _[@javixeneize](https://github.com/javixeneize)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1639">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1639)**
+
+---
+
+### **7. Web UI elements overlap or spread afar on Mobile & big screen**
+
+**ENVIRONMENT**
+
+MobSF Version: 3.1.7 beta
+OS and Version: Windows 10 Chrome , Android 9 Chrome
+
+**EXPLANATION OF THE ISSUE**
+When accessing the web interface via Chrome on Windows 10 or Chrome on Android the layout get "messy" with elements overlapping each other or, when zooming out, spread far from each other.
+While on PC there is more freedom to resize a window and zoom-out, on Android 9 (~6 Inch screen) elements from table columns like images or buttons in the static analysis page or the search button on the main page overlap and cover other elements.
+
+- **Posted by**: _[@elig0n](https://github.com/elig0n)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1569">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1569)**
+
+---
+
+### **8. Lack of ability to View Source in browser in some cases until upstream EnlighterJS bug is fixed**
+
+- **Posted by**: _[@nuschpl](https://github.com/nuschpl)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1603">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1603)**
+
+---
+
+### **9. Recent scan page**
+
+It would be great to see things like the appscores CVSS/security score/trackers detection on the recent scan page.
+sort-able would be amazing but being able to just view it on the page would be great. for overview and metrics.
+
+- **Posted by**: _[@thisguy23](https://github.com/thisguy23)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1526">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1526)**
+
+---
+
+### **10. StaticAnalysis: Allow different source paths for Android Studio when using zip format**
+
+**If you're requesting a new feature/enhancement, explain why you'd like it to be added and it's importance.**
+
+**Is your feature request related to a problem? Please describe.**
+The zipped source code analysis expects Android Studio projects to have their source directory at app/src/main.
+However, app/ can be named anything, based on the project's discretion. This means that the zip analysis does not work for a lot of projects who have chosen to name their source directory something else.
+
+**Describe the solution you'd like**
+Detect the source directory automatically by searching.
+
+**Describe alternatives you've considered**
+We could, maybe, specify a parameter indicating what the source directory is. However, this would disrupt the drag-and-drop upload experience that we currently have.
+
+- **Posted by**: _[@williams-brian](https://github.com/williams-brian)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1553">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1553)**
+
+---
+
+### **11. Specify versions of data sets used**
+
+Some analysis results are time-dependent; specifically, reported ratings may change with each scan. This applies at least to:
+
+1. all app metadata retrieved from AppStores
+2. the certificate status of the signer certificate (Android)
+3. domain malware checks (IP address, IP geolocation, status)
+4. VirusTotal results
+5. In order to make test results verifiable and possible differences between two scans comprehensible, a consistent versioning if the data sets used is necessary.
+
+Currently, only the scan date is specified when using the VirusTotal API.
+
+I suggest to add the following information to JSON Report API:
+
+- time at which an analysis started
+- time at which an analysis was completed (since not all analysis steps are executed in the very beginning and all at once)
+- the version string (if available) and the time at which a data set was successfully updated the last time (for example, the Malware Analysis or IP Geolocation data sets may be cached)
+
+- **Posted by**: _[@ghost](https://github.com/ghost)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1357">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1357)**
+
+---
+
+### **12. Add memory dump feature for mobsf**
+
+If you're requesting a new feature/enhancement, explain why you'd like it to be added and it's importance.
+
+**Is your feature request related to a problem? Please describe.**
+This is useful for malware and forensic analysis. Support frida based memory dumping
+
+https://github.com/Nightbringer21/fridump
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+
+- **Posted by**: _[@ajinabraham](https://github.com/ajinabraham)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1431">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1431)**
+
+---
+
+### **13. Dynamic Analysis of iOS apps utilizing jailbroken iPhones**
+
+**If you're requesting a new feature/enhancement, explain why you'd like it to be added and it's importance.**
+The importance of being able to dynamically analyze iOS apps is no difference then the importance of being able to dynamically analyze Android Apps. With the release of exploits for iOS, such as the permanent unpatchable bootrom exploit, many security researchers have the ability to utilize this to perform dynamic analysis of apps on iOS with ease.
+
+**Is your feature request related to a problem? Please describe.**
+The problem being that dynamic analysis of IPA's is not supported with MobSF.
+
+**Describe the solution you'd like**
+Tools such as GrapeFruit https://github.com/ChiChou/Grapefruit or https://github.com/chaitin/passionfruit are good references to the capabilities that are missing. Implementing the features such as recording traffic, like we can in Android and running Frida scripts.
+
+**Describe alternatives you've considered**
+Using tools such as GrapeFruit https://github.com/ChiChou/Grapefruit or https://github.com/chaitin/passionfruit
+
+- **Posted by**: _[@uBadRequest](https://github.com/uBadRequest)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1453">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1453)**
+
+---
+
+### **14. Provide codes for simplified classification of issues**
+
+The JSON reporting API should be extended so that parsing to distinguish different issues is no longer necessary. Introducing such issue codes would greatly simplify machine processing.
+
+**Examples:**
+
+iOS App Transport Security (ATS) issues:
+I suggest issue codes based on the triggered expression.
+
+- Insecure communication to xxx.xxx.xxx is allowed -> Either NSTemporaryExceptionAllowsInsecureHTTPLoads or NSExceptionAllowsInsecureHTTPLoads
+- NSIncludesSubdomains set to TRUE for xxx.xxx.xxx -> NSIncludesSubdomainsAllowed
+- NSExceptionMinimumTLSVersion set to TLSv1.1 on xxx.xxx.xxx -> NSExceptionMinimumTLSVersion11
+- ...
+
+Issues in other sections do not contain contextual information (or provide a field like name in the Android manifest analysis) afaik. However, it is desirable to use a one-word code instead of a sentence - the former is imho less likely to be edited.
+
+- **Posted by**: _[@ghost](https://github.com/ghost)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1356">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1356)**
+
+---
+
+### **15. Add "Submit" button in VirusTotal section**
+
+Our investigation on mobile app sometime dealing with application in development and we have to disable auto submit to VirusTotal.
+But sometime deal with malware or app store application which is available publicly.
+Adding "Submit" button in VirusTotal section will be helpful if we need to submit the application to VirusTotal manually.
+
+- **Posted by**: _[@baharkhalid](https://github.com/baharkhalid)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1349">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1349)**
+
+---
+
+### **16. Assets.car parser**
+
+Hi, thanks a lot for working on this tool.
+
+During a recent .IPA file review, I discovered multiple Assets.car files with BOMStore header.
+After a quick google, I found the following article:
+https://blog.timac.org/2018/1112-quicklook-plugin-to-visualize-car-files/
+
+He released few tools (with source code), however they are all for OSX sources.
+
+I was wondering if you can find/write a cross-platform alternative and include this parser into MobSF
+
+Thanks
+
+- **Posted by**: _[@blshkv](https://github.com/blshkv)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1271">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1271)**
+
+---
+
+### **17. Better handling of info.plist files in IOS Source**
+
+If you're requesting a new feature/enhancement, explain why you'd like it to be added and it's importance.
+
+**Is your feature request related to a problem? Please describe.**
+When working with large IOS projects, it is not uncommon, at least in our org, that projects are structured into modules.
+Each module has their own info.plist. This causes some problems with mobSF as it appears to simply pick the first info.plist if finds (when scanning IOS Source, it is not an issue in binary as all the plist's are combined into one), which could easily be a sub-module instead of the actual app.
+
+Furthermore, you are free to name the info.plist file as you please. It does not have to be called info.plist.
+I would like to hear some opinions on how to solve this and if it even should be solved. Maybe we're the only ones with this issue?
+
+**Describe the solution you'd like**
+Perhaps we could have an optional parameter, in the scan api call, with the name of the configuration that gets built. That way, it could check the project.pbxproj file, and find that configuration.
+In the configuration, in the project file, it shows the path the info.plist file and also values that you might replace, in it, using variable placeholders.
+Combining these two things could potentially give you the proper info.plist content.
+
+- **Posted by**: _[@Nicoolai](https://github.com/Nicoolai)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1241">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1241)**
+
+---
+
+### **18. Support for Diffing, Remove False Positives, Report Missed Vulnerabilities**
+
+**Description**
+
+- Support to diff 2 or more Scan results.
+- Allow Users to mark findings as false positive with comments and revert back.
+- Report a finding that was missed by MobSF (If user wishes to send vulnerable source code to Cloud)
+
+- **Posted by**: _[@ajinabraham](https://github.com/ajinabraham)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F249">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/249)**
+
+---
+
+### **19. Allow for CSV export of findings**
+
+**If you're requesting a new feature/enhancement, explain why you'd like it to be added and it's importance.**
+
+**Is your feature request related to a problem? Please describe.**
+I use this tool for FedRAMP penetration testing against Federal companies. As such, there are very strict documentation standards. Allowing export of a CSV file would greatly streamline my reporting as currently I am having to copy/paste from PDFs unless I want to work on the report instantly.
+
+**Describe the solution you'd like**
+I would like a function added that could either export as CSV or even XML that could be converted to CSV through scripting in Python. Anything but a PDF that cannot be properly parsed.
+
+**Describe alternatives you've considered**
+I am currently working on attempting to pull the HTML down and use Beautiful soup to perform the parsing, however I feel that if I am needing this functionality, multiple other people may be wanting it as well.
+
+- **Posted by**: _[@Maleus](https://github.com/Maleus)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1155">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1155)**
+
+---
+
+### **20. Mobile-Security API-Framework-MobSF within MISP Project about IOC**
+
+By doing static analysis and dynamic analysis of malware for android, ios and windows mobile, we can find several IOCs (https://en.wikipedia.org/wiki/Indicator_of_compromise)
+these IOCs could be automatically inserted via Mobile-Security API-Framework-MobSF within MISP Project by creating automatic events:
+https://www.misp-project.org/features.html
+That would be a huge feature for Mobile-Security-Framework-MobSF, before the MISP Project and Mobile-Security-Framework-MobSF, will be seen by over 6,000,000 renowned institutions worldwide.
+
+- **Posted by**: _[@firebitsbr](https://github.com/firebitsbr)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1147">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1147)**
+
+---
+
+### **21. Scanning from git repository**
+
+I propose de add scanning from git repository.
+I don't find the scan from zip code source file very useful.
+
+- **Posted by**: _[@ahmedadouani](https://github.com/ahmedadouani)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1146">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1146)**
+
+---
+
+### **22. Dark Mode**
+
+It would be great if a dark mode theme could be added to MobSF web interface.
+
+- **Posted by**: _[@aress31](https://github.com/aress31)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1088">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1088)**
+
+---
+
+### **23. Android Static Analysis test request**
+
+Internal username and path disclosure:
+I believe this also applies to iOS but apple strips this data out before it goes to iTunes.
+If you run strings \*|grep "/Users/" on any of the compiled library .so files you get the username of the developer who compiled the binary. You also get the folder structure/layout of the developers local machine.
+That is if they are running on a mac. Similar strings could be searched for windows/nix based.
+Love the tool, thanks!
+
+- **Posted by**: _[@MrVaughan](https://github.com/MrVaughan)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F468">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/468)**
+
+---
+
+### **24. Please add code path diagrams**
+
+**EXPLANATION OF THE ISSUE**
+I had a feature request that would really improve MobSF. Are you able to add code path diagrams.
+This would make tracking back through the code much easier. At present you have to keep searching for where functions are called.
+
+- **Posted by**: _[@Simon-Davies](https://github.com/Simon-Davies)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F606">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/606)**
+
+---
+
+### **25. Detect Vulnerable Javascript Libraries in Hybrid Mobile Apps**
+
+It seems to me there are lots of opportunities for enhancements for detecting vulnerable hybrid mobile applications.
+Such as Retire.js integration for identifying vulnerable Javascript libraries in Hybrid mobile applications
+http://retirejs.github.io/retire.js/
+
+- **Posted by**: _[@richnetdesign](https://github.com/richnetdesign)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1368">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/368)**
+
+---
+
+### **26. Android: Dynamic Analysis: Exported Activity Tester to support intents**
+
+- **Posted by**: _[@ajinabraham](https://github.com/ajinabraham)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F135">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/135)**
+
+---
+
+### **27. Integrate Android unused permission flag (Yes/No) under the permission table.**.
+
+https://github.com/MindMac/AndroidUnusedPermissions
+
+- **Posted by**: _[@bugwrangler](https://github.com/bugwrangler)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F269">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/269)**
+
+---
+
+### **28. [windows_static] appxbundle**
+
+Hi, I read windows support is limited to appx files. I was wondering if appxbundle files are ok too..
+
+- **Posted by**: _[@lucacapacci](https://github.com/lucacapacci)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F254">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/254)**
+
+---
+
+### **29. config.py used by USE_HOME needs to be updated in the background**
+
+**EXPLANATION OF THE ISSUE**
+When new settings is added to settings.py, the same won't be available in config.py
+
+**STEPS TO REPRODUCE THE ISSUE**
+Not a direct bug.
+
+- **Posted by**: _[@ajinabraham](https://github.com/ajinabraham)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F355">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/355)**
+
+---
+
+### **30. Android: Dynamic Analysis: Exported Activity Tester to support intents.**
+
+Our investigation on mobile app sometime dealing with application in development and we have to disable auto submit to VirusTotal.
+But sometime deal with malware or app store application which is available publicly.
+Adding "Submit" button in VirusTotal section will be helpful if we need to submit the application to VirusTotal manually.
+
+- **Posted by**: _[@ajinabraham](https://github.com/ajinabraham)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F135">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/135)**
+
+---
+
+### **30. Android: Enhancement : Edit Code, Save, Recompile and Intent Vulnerability POC Generation.**
+
+An utility section that provides interface to decompile to smali, recompile after editing and signing.
+
+- **Posted by**: _[@imdadvs](https://github.com/imdadvs)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F110">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/110)**
+
+---
+
+### **30. Integration of Library Detection & Analysis into MobSF.**
+
+Hi!
+As we approach the final semester of our bachelor at Saarland University, a friend of mine and me are doing a project this semester. We have been assigned to integrate Android library detection & anaylsis techniques into a popular mobile security analysis tool.
+We have chosen MobSF as framework, and will be integrating LibScout, as well as LibID into the static analysis routine of MobSF.
+As I like contributing to open source, I wanted to ask if you'd be interested in a pull request once work is finished.
+Greetings!
+
+- **Posted by**: _[@VainlyStrain](https://github.com/VainlyStrain)_
+- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1614">
+- **Standard**: _Unpaid_
+- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1614)**
+
+---
