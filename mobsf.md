@@ -4,12 +4,38 @@ Enhancement and feature requests for _[MobSF](https://mobsf.github.io/docs/)_ ar
 
 ## Index
 
-1. [Code Enhancement/Feature Requests](#code-enhancementfeature-requests)
-   - [CSS file loading fail in China](#1-css-file-loading-fail-in-china)
-   - [Find API keys/secrets by matching regex](#2-find-api-keyssecrets-by-matching-regex)
-   - [browse all files](#3-browse-all-files)
-   - [Split settings.py](#4-split-settingspy)
-   - [Sticky horizontal scrollbar in code/xml views](#5-sticky-horizontal-scrollbar-in-codexml-views)
+### [Code Enhancement/Feature Requests](#code-enhancementfeature-requests)
+   1. [CSS file loading fail in China](#1-css-file-loading-fail-in-china)
+   2. [Find API keys/secrets by matching regex](#2-find-api-keyssecrets-by-matching-regex)
+   3. [browse all files](#3-browse-all-files)
+   4. [Split settings.py](#4-split-settingspy)
+   5. [Sticky horizontal scrollbar in code/xml views](#5-sticky-horizontal-scrollbar-in-codexml-views)
+   6. [Create non root docker image](#6-create-non-root-docker-image)
+   7. [Web UI elements overlap or spread afar on Mobile & big screen](#7-web-ui-elements-overlap-or-spread-afar-on-mobile--big-screen)
+   8. [Lack of ability to View Source in browser in some cases until upstream EnlighterJS bug is fixed](#8-lack-of-ability-to-view-source-in-browser-in-some-cases-until-upstream-enlighterjs-bug-is-fixed)
+   9. [Recent scan page](#9-recent-scan-page)
+   10. [StaticAnalysis: Allow different source paths for Android Studio when using zip format](#10-staticanalysis-allow-different-source-paths-for-android-studio-when-using-zip-format)
+   11. [Specify versions of data sets used](#11-specify-versions-of-data-sets-used)
+   12. [Add memory dump feature for mobsf](#12-add-memory-dump-feature-for-mobsf)
+   13. [Dynamic Analysis of iOS apps utilizing jailbroken iPhones](#13-dynamic-analysis-of-ios-apps-utilizing-jailbroken-iphones)
+   14. [Provide codes for simplified classification of issues](#14-provide-codes-for-simplified-classification-of-issues)
+   15. [Add "Submit" button in VirusTotal section](#15-add-submit-button-in-virustotal-section)
+   16. [Assets.car parser](#16-assetscar-parser)
+   17. [Better handling of info.plist files in IOS Source](#17-better-handling-of-infoplist-files-in-ios-source)
+   18. [Support for Diffing, Remove False Positives, Report Missed Vulnerabilities](#18-support-for-diffing-remove-false-positives-report-missed-vulnerabilities)
+   19. [Allow for CSV export of findings](#19-allow-for-csv-export-of-findings)
+   20. [Mobile-Security API-Framework-MobSF within MISP Project about IOC](#20-mobile-security-api-framework-mobsf-within-misp-project-about-ioc)
+   21. [Scanning from git repository](#21-scanning-from-git-repository)
+   22. [Dark Mode](#22-dark-mode)
+   23. [Android Static Analysis test request](#23-android-static-analysis-test-request)
+   24. [Please add code path diagrams](#24-please-add-code-path-diagrams)
+   25. [Detect Vulnerable Javascript Libraries in Hybrid Mobile Apps](#25-detect-vulnerable-javascript-libraries-in-hybrid-mobile-apps)
+   26. [Android: Dynamic Analysis: Exported Activity Tester to support intents](#26-android-dynamic-analysis-exported-activity-tester-to-support-intents)
+   27. [Integrate Android unused permission flag (Yes/No) under the permission table](#27-integrate-android-unused-permission-flag-yesno-under-the-permission-table)
+   28. [[windows_static] appxbundle](#28-windows_static-appxbundle)
+   29. [config.py used by USE_HOME needs to be updated in the background](#29-configpy-used-by-use_home-needs-to-be-updated-in-the-background)
+   30. [Android: Enhancement : Edit Code, Save, Recompile and Intent Vulnerability POC Generation](#30-android-enhancement--edit-code-save-recompile-and-intent-vulnerability-poc-generation)
+   31. [Integration of Library Detection & Analysis into MobSF](#31-integration-of-library-detection--analysis-into-mobsf)
 
 ## Code Enhancement/Feature Requests
 
@@ -491,19 +517,6 @@ Not a direct bug.
 
 ---
 
-### **30. Android: Dynamic Analysis: Exported Activity Tester to support intents.**
-
-Our investigation on mobile app sometime dealing with application in development and we have to disable auto submit to VirusTotal.
-But sometime deal with malware or app store application which is available publicly.
-Adding "Submit" button in VirusTotal section will be helpful if we need to submit the application to VirusTotal manually.
-
-- **Posted by**: _[@ajinabraham](https://github.com/ajinabraham)_
-- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F135">
-- **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/135)**
-
----
-
 ### **30. Android: Enhancement : Edit Code, Save, Recompile and Intent Vulnerability POC Generation.**
 
 An utility section that provides interface to decompile to smali, recompile after editing and signing.
@@ -515,7 +528,7 @@ An utility section that provides interface to decompile to smali, recompile afte
 
 ---
 
-### **30. Integration of Library Detection & Analysis into MobSF.**
+### **31. Integration of Library Detection & Analysis into MobSF.**
 
 Hi!
 As we approach the final semester of our bachelor at Saarland University, a friend of mine and me are doing a project this semester. We have been assigned to integrate Android library detection & anaylsis techniques into a popular mobile security analysis tool.
