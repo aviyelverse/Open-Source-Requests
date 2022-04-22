@@ -4,12 +4,28 @@ All of the enhancement and feature requests for _[BoxyHQ](https://boxyhq.com/)_ 
 
 ## Index
 
-1. [Code Enhancement/Feature Requests](#code-enhancementfeature-requests)
-   - [Return version in health check endpoint](#1-return-version-in-health-check-endpoint)
-   - [Build docker image for arm64](#2-build-docker-image-for-arm64)
-   - [Guard against email not being present in the attributes](#3-guard-against-email-not-being-present-in-the-attributes)
-   - [OpenTelemetry Tracing](#4-opentelemetry-tracing)
-   - [Guard against providers that expect users to provide a unique SP entityId](#5-guard-against-providers-that-expect-users-to-provide-a-unique-sp-entityid)
+### [Code Enhancement/Feature Requests](#code-enhancementfeature-requests)
+   1. [Return version in health check endpoint](#1-return-version-in-health-check-endpoint)
+   2. [Build docker image for arm64](#2-build-docker-image-for-arm64)
+   3. [Guard against email not being present in the attributes](#3-guard-against-email-not-being-present-in-the-attributes)
+   4. [OpenTelemetry Tracing](#4-opentelemetry-tracing)
+   5. [Guard against providers that expect users to provide a unique SP entityId](#5-guard-against-providers-that-expect-users-to-provide-a-unique-sp-entityid)
+
+### [Creation of Templates]()
+   1. [How to add SAML Single Sign-On service to a Laravel application?]()
+   2. [How to add SAML Single Sign-On service to an Angular application?]()
+   3. [How to add SAML Single Sign-On service to a Svelte application?]()
+   4. [How to build and deploy SAML service on AWS?]()
+   5. [How to build and deploy SAML service on Docker?]()
+   6. [How to deploy SAML Jackson as a separate service?]()
+   7. [How to integrate SAML Jackson with Express.js and Auth0?]()
+   8. [How to integrate SAML Jackson with the Nodejs application?]()
+   9. [How to build and deploy SAML service on Digital Ocean?]()
+   10. [How to build and deploy SAML service on Vercel?]()
+   11. [How to add SAML Single Sign-On service to a Vuejs application?]()
+   12. [How to add SAML Single Sign-On service to a Nextjs app?]()
+   13. [How to add SAML Single Sign-On service to a Reactjs app?]()
+   14. [How to integrate SAML Jackson with Supertokens and Express.js?]()
 
 ## Code Enhancement/Feature Requests
 
@@ -84,5 +100,107 @@ Check if entityId already exists and then throw an error if the details don't ma
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fboxyhq%2F117">
 - **Standard**: _Unpaid_
 - **[Issue Link](https://github.com/boxyhq/jackson/issues/117)**
+
+---
+
+## Creation of templates
+
+### **1. How to add SAML Single Sign-On service to a Laravel application?**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **2. How to add SAML Single Sign-On service to an Angular application?**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **3. How to add SAML Single Sign-On service to a Svelte application?**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **4. How to build and deploy SAML service on AWS?**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **5. How to build and deploy SAML service on Docker?**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **6. How to deploy SAML Jackson as a separate service?**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+   - 
+### **7. How to integrate SAML Jackson with Express.js and Auth0?**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **8. How to integrate SAML Jackson with the Nodejs application?**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **9. How to build and deploy SAML service on Digital Ocean?**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **10. How to build and deploy SAML service on Vercel?**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **11. How to add SAML Single Sign-On service to a Vuejs application?**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **12. How to add SAML Single Sign-On service to a Nextjs app?**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **13. How to add SAML Single Sign-On service to a Reactjs app?**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **14. How to integrate SAML Jackson with Supertokens and Express.js?**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
 
 ---
