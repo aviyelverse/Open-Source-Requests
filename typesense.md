@@ -4,18 +4,18 @@ Enhancement and feature requests for _[Typesense](https://typesense.org/)_ are l
 
 ## Index
 
-1. [Code Enhancement/Feature Requests](#code-enhancementfeature-requests)
-   - [Unable to use negation filter to integer field](#1-unable-to-use-negation-filter-to-integer-field)
-   - [Ability to apply filters to overrides and pinned hits](#2-ability-to-apply-filters-to-overrides-and-pinned-hits)
-   - [Curation API and filters](#3-curation-api-and-filters)
-   - [Ranking based on Relevance and Popularity connected to Override](#4-ranking-based-on-relevance-and-popularity-connected-to-override)
-   - [Default Value When Optional = "True"](#5-default-value-when-optional--true)
-2. [Creation of Templates and Demos](#creating-templates-and-demos)
-   - [Create a Demo of Anime instant-search app](#1-create-a-demo-of-anime-instant-search-app)
-   - [Build a search application with Typesense, React and Tailwind](#2-build-a-search-application-with-typesense-react-and-tailwind)
-   - [Build an instant full-text search in JavaScript with Typesense](#3-build-an-instant-full-text-search-in-javascript-with-typesense)
-   - [Adding Typesense search to an Astro Static Generated Website](#4-adding-typesense-search-to-an-astro-static-generated-website)
-   - [Building a search UI with Typesense](#5-building-a-search-ui-with-typesense)
+### [Code Enhancement/Feature Requests](#code-enhancementfeature-requests)
+ 1. [Unable to use negation filter to integer field](#1-unable-to-use-negation-filter-to-integer-field)
+ 2. [Ability to apply filters to overrides and pinned hits](#2-ability-to-apply-filters-to-overrides-and-pinned-hits)
+ 3. [Curation API and filters](#3-curation-api-and-filters)
+ 4. [Ranking based on Relevance and Popularity connected to Override](#4-ranking-based-on-relevance-and-popularity-connected-to-override)
+ 5. [Default Value When Optional = "True"](#5-default-value-when-optional--true)
+### [Creation of Templates and Demos](#creating-templates-and-demos)
+ 1. [Create a Demo of Anime instant-search app](#1-create-a-demo-of-anime-instant-search-app)
+ 2. [Build a search application with Typesense, React and Tailwind](#2-build-a-search-application-with-typesense-react-and-tailwind)
+ 3. [Build an instant full-text search in JavaScript with Typesense](#3-build-an-instant-full-text-search-in-javascript-with-typesense)
+ 4. [Adding Typesense search to an Astro Static Generated Website](#4-adding-typesense-search-to-an-astro-static-generated-website)
+ 5. [Building a search UI with Typesense](#5-building-a-search-ui-with-typesense)
 
 ## Code Enhancement/Feature Requests
 
