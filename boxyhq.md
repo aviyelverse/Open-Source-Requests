@@ -42,7 +42,7 @@ Return the version in the health check endpoint.
 - **Posted by**: _[@deepakprabhakara](https://github.com/deepakprabhakara)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fboxyhq%2F142">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/boxyhq/jackson/issues/142)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/54)**
 
 ---
 
@@ -60,7 +60,7 @@ How is cosign affected by this? We'll need to ensure signing is intact for both 
 - **Posted by**: _[@deepakprabhakara](https://github.com/deepakprabhakara)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fboxyhq%2F124">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/boxyhq/jackson/issues/124)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/55)**
 
 ---
 
@@ -72,7 +72,7 @@ If email is not present then throw an error, it is very likely a bad SAML config
 - **Posted by**: _[@deepakprabhakara](https://github.com/deepakprabhakara)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fboxyhq%2F116">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/boxyhq/jackson/issues/116)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/56)**
 
 ---
 
@@ -84,7 +84,7 @@ Add tracing via OpenTelemetry
 - **Posted by**: _[@deepakprabhakara](https://github.com/deepakprabhakara)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fboxyhq%2F112">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/boxyhq/jackson/issues/112)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/57)**
 
 ---
 
@@ -99,7 +99,7 @@ Check if entityId already exists and then throw an error if the details don't ma
 - **Posted by**: _[@deepakprabhakara](https://github.com/deepakprabhakara)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fboxyhq%2F117">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/boxyhq/jackson/issues/117)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/58)**
 
 ---
 
