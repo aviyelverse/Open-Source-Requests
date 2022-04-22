@@ -45,9 +45,9 @@ All of the enhancement and feature requests for _[Medusa](https://medusajs.com/)
 Apps has been of long time interest, we are looking to do a cool write up on it but are no experts ourselves.
 
 - **Posted by**: _MedusaJS_
-- **Status**: _Not assigned_
+- [Check Status](https://medusajs.notion.site/Topics-2653fe684b1a4640b94e253f1d6bc3d9)
 - **Standard**: _Paid_
-- **[Gig Link](https://medusajs.notion.site/Topics-2653fe684b1a4640b94e253f1d6bc3d9?p=73825e914cc440d0b5e2e942d9a291e4)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/110)**
 
 ---
 
@@ -56,9 +56,9 @@ Apps has been of long time interest, we are looking to do a cool write up on it 
 Please include a repo or build a real integration for it that we can share along with the article.
 
 - **Posted by**: _MedusaJS_
-- **Status**: _Not assigned_
+- [Check Status](https://medusajs.notion.site/Topics-2653fe684b1a4640b94e253f1d6bc3d9)
 - **Standard**: _Paid_
-- **[Gig Link](https://medusajs.notion.site/Topics-2653fe684b1a4640b94e253f1d6bc3d9?p=d17936d35e9441e9b95aec752bab638f)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/111)**
 
 ---
 
@@ -67,9 +67,9 @@ Please include a repo or build a real integration for it that we can share along
 Most people shop on their phones, so it’s important to have an app for your store. Due to Medusa’s headless architecture, it should be as easy as creating a website!
 
 - **Posted by**: _MedusaJS_
-- **Status**: _Not assigned_
+- [Check Status](https://medusajs.notion.site/Topics-2653fe684b1a4640b94e253f1d6bc3d9)
 - **Standard**: _Paid_
-- **[Gig Link](https://medusajs.notion.site/Topics-2653fe684b1a4640b94e253f1d6bc3d9?p=054a101c3b614daca6c1445c52c830fa)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/112)**
 
 ---
 
@@ -78,9 +78,9 @@ Most people shop on their phones, so it’s important to have an app for your st
 Flutter is a popular cross-platform framework that many love and use. This tutorial will help them learn how to create an ecommerce app using flutter and Medusa.
 
 - **Posted by**: _MedusaJS_
-- **Status**: _Not assigned_
+- [Check Status](https://medusajs.notion.site/Topics-2653fe684b1a4640b94e253f1d6bc3d9)
 - **Standard**: _Paid_
-- **[Gig Link](https://medusajs.notion.site/Topics-2653fe684b1a4640b94e253f1d6bc3d9?p=ac865d4ce2ff42d4934ee4c22a8c4619)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/113)**
 
 ---
 
@@ -89,9 +89,9 @@ Flutter is a popular cross-platform framework that many love and use. This tutor
 Apps has been of long time interest, we are looking to do a cool write up on it but are no experts ourselves.
 
 - **Posted by**: _MedusaJS_
-- **Status**: _Not assigned_
+- [Check Status](https://medusajs.notion.site/Topics-2653fe684b1a4640b94e253f1d6bc3d9)
 - **Standard**: _Paid_
-- **[Gig Link](https://medusajs.notion.site/Topics-2653fe684b1a4640b94e253f1d6bc3d9?p=73825e914cc440d0b5e2e942d9a291e4)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/114)**
 
 ---
 
@@ -106,7 +106,7 @@ We want to add support for filtering by customer groups. We should extend the `F
 - **Posted by**: _[@zakariaelas](https://github.com/zakariaelas)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1286">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/medusajs/medusa/issues/1286)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/32)**
 
 ---
 
@@ -128,7 +128,7 @@ POST /admin/batch/:id/complete
 - **Posted by**: _[@srindom](https://github.com/srindom)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1277">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/medusajs/medusa/issues/1277)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/33)**
 
 ---
 
@@ -149,7 +149,7 @@ POST /admin/batch/:id/cancel
 - **Posted by**: _[@srindom](https://github.com/srindom)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1276">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/medusajs/medusa/issues/1276)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/34)**
 
 ---
 
@@ -175,7 +175,7 @@ Response
 - **Posted by**: _[@srindom](https://github.com/srindom)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1275">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/medusajs/medusa/issues/1275)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/35)**
 
 ---
 
@@ -198,7 +198,7 @@ Response
 - **Posted by**: _[@srindom](https://github.com/srindom)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1274">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/medusajs/medusa/issues/1274)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/36)**
 
 ---
 
@@ -209,7 +209,7 @@ Creates a batch operation. The type of batch operation determines what should be
 - **Posted by**: _[@srindom](https://github.com/srindom)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1273">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/medusajs/medusa/issues/1273)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/37)**
 
 ---
 
@@ -223,7 +223,7 @@ depends on: [#1264](https://github.com/medusajs/medusa/issues/1264)
 - **Posted by**: _[@fPolic](https://github.com/fPolic)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1267">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/medusajs/medusa/issues/1267)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/38)**
 
 ---
 
@@ -235,7 +235,7 @@ depends on: [#1264](https://github.com/medusajs/medusa/issues/1264)
 - **Posted by**: _[@fPolic](https://github.com/fPolic)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1265">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/medusajs/medusa/issues/1265)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/39)**
 
 ---
 
@@ -249,7 +249,7 @@ depends on: [#1264](https://github.com/medusajs/medusa/issues/1264)
 - **Posted by**: _[@fPolic](https://github.com/fPolic)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1264">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/medusajs/medusa/issues/1264)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/40)**
 
 ---
 
@@ -260,7 +260,7 @@ We should introduce a new BatchJob entity to model the status of a batch upload 
 - **Posted by**: _[@fPolic](https://github.com/fPolic)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1263">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/medusajs/medusa/issues/1263)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/41)**
 
 ---
 
@@ -272,7 +272,7 @@ In medusa-js, add signOut() to the [store AuthResource](https://github.com/medus
 - **Posted by**: _[@olivermrbl](https://github.com/olivermrbl)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1094">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/medusajs/medusa/issues/1094)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/42)**
 
 ---
 
@@ -286,7 +286,7 @@ Part of this ticket is investigating how we should approach this, as WebSocket/S
 - **Posted by**: _[@kasperkristensen](https://github.com/kasperkristensen)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1270">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/medusajs/medusa/issues/1270)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/43)**
 
 ---
 
@@ -300,7 +300,7 @@ Part of this ticket is to research how providers such as S3, DO, etc. so the Fil
 - **Posted by**: _[@kasperkristensen](https://github.com/kasperkristensen)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1269">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/medusajs/medusa/issues/1269)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/44)**
 
 ---
 
@@ -311,7 +311,7 @@ Add a BatchJobService.
 - **Posted by**: _[@kasperkristensen](https://github.com/kasperkristensen)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1268">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/medusajs/medusa/issues/1268)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/45)**
 
 ---
 
@@ -322,7 +322,7 @@ The new batch endpoints introduced by [#1032](https://github.com/medusajs/medusa
 - **Posted by**: _[@srindom](https://github.com/srindom)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F1089">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/medusajs/medusa/issues/1089)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/46)**
 
 ---
 
@@ -333,7 +333,7 @@ It appears that right now all custom APIs are insecure by default. It would be n
 - **Posted by**: _[@dwene](https://github.com/dwene)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F859">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/medusajs/medusa/issues/859)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/47)**
 
 ---
 
@@ -346,7 +346,7 @@ More to come
 - **Posted by**: _[@olivermrbl](https://github.com/olivermrbl)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmedusa%2F419">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/medusajs/medusa/issues/419)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/48)**
 
 ---
 
