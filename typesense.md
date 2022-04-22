@@ -10,12 +10,12 @@ Enhancement and feature requests for _[Typesense](https://typesense.org/)_ are l
    - [Curation API and filters](#3-curation-api-and-filters)
    - [Ranking based on Relevance and Popularity connected to Override](#4-ranking-based-on-relevance-and-popularity-connected-to-override)
    - [Default Value When Optional = "True"](#5-default-value-when-optional--true)
-2. [Creation of Templates and Demos](#creating-template-and-demos)
-   - Create a Demo of Anime instant-search app
-   - Build a search application with Typesense, React and Tailwind
-   - Build an instant full-text search in JavaScript with Typesense
-   - Adding Typesense search to an Astro Static Generated Website
-   - Building a search UI with Typesense
+2. [Creation of Templates and Demos](#creating-templates-and-demos)
+   - [Create a Demo of Anime instant-search app](#1-create-a-demo-of-anime-instant-search-app)
+   - [Build a search application with Typesense, React and Tailwind](#2-build-a-search-application-with-typesense-react-and-tailwind)
+   - [Build an instant full-text search in JavaScript with Typesense](#3-build-an-instant-full-text-search-in-javascript-with-typesense)
+   - [Adding Typesense search to an Astro Static Generated Website](#4-adding-typesense-search-to-an-astro-static-generated-website)
+   - [Building a search UI with Typesense](#5-building-a-search-ui-with-typesense)
 
 ## Code Enhancement/Feature Requests
 
