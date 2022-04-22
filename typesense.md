@@ -49,7 +49,7 @@ Ubuntu 20.04
 - **Posted by**: _[@xpader](https://github.com/xpader)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Ftypesense%2F576">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/typesense/typesense/issues/576)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/49)**
 
 ---
 
@@ -81,7 +81,7 @@ curl "http://localhost:8108/collections/products/documents/search?q=apple&query_
 - **Posted by**: _[@jasonbosco](https://github.com/jasonbosco)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Ftypesense%2F549">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/typesense/typesense/issues/549)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/50)**
 
 ---
 
@@ -94,7 +94,7 @@ For example we would like to curate different document for search `search?q=hamb
 - **Posted by**: _[@mikran](https://github.com/mikran)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Ftypesense%2F536">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/typesense/typesense/issues/536)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/51)**
 
 ---
 
@@ -122,7 +122,7 @@ Apply overrides to an entire product category in combination with a query. So if
 - **Posted by**: _[@aaroncueckermann](https://github.com/aaroncueckermann)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Ftypesense%2F525">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/typesense/typesense/issues/525)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/52)**
 
 ---
 
@@ -144,7 +144,7 @@ Typsense Version: cloud.
 - **Posted by**: _[@panoet](https://github.com/panoet)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Ftypesense%2F346">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/typesense/typesense/issues/346)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/53)**
 
 ---
 
