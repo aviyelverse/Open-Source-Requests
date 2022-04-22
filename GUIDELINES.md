@@ -4,4 +4,4 @@ Aviyel is on a mission to help Open Source projects sustain by building communit
 
 - We are just publishing these gigs to make them more segregated and accessible.
 - Please check that an issue is open for contributions before picking it up.
-- And, before you pick up an issue, please create a request for the specific issue in the issue tabs so that we can follow its progress.
+- And, before you pick up an issue, please create comment on the specific issue in the issue tabs so we can assign to you and keep track of it's availability.
