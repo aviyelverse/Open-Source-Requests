@@ -30,11 +30,11 @@ All of the enhancement and feature requests for _[Medusa](https://medusajs.com/)
    16. [Enhancement: Ability to use admin middleware in custom APIs](#16-enhancement-ability-to-use-admin-middleware-in-custom-apis)
    17. [Select discount.rule.valid_for products by collection, type, and tags](#17-select-discountrulevalid_for-products-by-collection-type-and-tags)
   
-### [Creation of Templates]()
-   1. [How to set up Gatsby source plugin for building websites using Medusa as data source]()
-   2. [How to integrate Brightpearl into Medusa]()
-   3. [How to integrate Algolia with Medusa]()
-   4. [How to add third party apps and plugins to Medusa Store]()
+### [Creation of Templates](#creation-of-templates-1)
+   1. [How to set up Gatsby source plugin for building websites using Medusa as data source](#2-how-to-integrate-brightpearl-into-medusa)
+   2. [How to integrate Brightpearl into Medusa](#2-how-to-integrate-brightpearl-into-medusa)
+   3. [How to integrate Algolia with Medusa](#3-how-to-integrate-algolia-with-medusa)
+   4. [How to add third party apps and plugins to Medusa Store](#4-how-to-add-third-party-apps-and-plugins-to-medusa-store)
 
 ## Non-Code Enhancement/Feature Requests
 
