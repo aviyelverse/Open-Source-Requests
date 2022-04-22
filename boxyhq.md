@@ -146,7 +146,7 @@ Check if entityId already exists and then throw an error if the details don't ma
    - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
    - **Standard**: _Unpaid_
    - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/101)**
-   - 
+  
 ### **7. How to integrate SAML Jackson with Express.js and Auth0?**
 
    - **Posted by**: Aviyel Team
