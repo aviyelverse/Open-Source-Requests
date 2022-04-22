@@ -1,4 +1,4 @@
-# Open-Source-Gigs
+# Open Source Requests
 
 Aviyel is on a mission to help Open Source projects sustain by creating communities around them and by incentivizing the contributors. 
 All of the enhancement and feature requests are listed here, and community can pick the ones they want to complete and be rewarded for completing the same.
