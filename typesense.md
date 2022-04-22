@@ -155,34 +155,34 @@ Typsense Version: cloud.
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/Typesense-43e84e9df7ea4e44889d3cb1f1c4c6c1)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/69)**
 
 ### **2. Build a search application with Typesense, React and Tailwind**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/Typesense-43e84e9df7ea4e44889d3cb1f1c4c6c1)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/70)**
       
 ### **3. Build an instant full-text search in JavaScript with Typesense**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/Typesense-43e84e9df7ea4e44889d3cb1f1c4c6c1)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/71)**
 
 ### **4. Adding Typesense search to an Astro Static Generated Website**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/Typesense-43e84e9df7ea4e44889d3cb1f1c4c6c1)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/73)**
 
 ### **5. Building a search UI with Typesense**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/Typesense-43e84e9df7ea4e44889d3cb1f1c4c6c1)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/74)**
       
 ---      
