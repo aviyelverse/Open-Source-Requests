@@ -21,7 +21,7 @@ To learn more about the projects, visit their about page. We also have an exhaus
 
 ![Docz](https://aviyel.com/cdn-cgi/image/width=56,format=auto/assets/uploads/static/docz.png)
 
-[Docz]((https://aviyel.com/projects/9/docz/)) makes it easy to write and publish beautiful interactive documentation for your code. Create MDX files showcasing your code and Docz turns them into a live-reloading, production-ready site.
+[Docz](https://aviyel.com/projects/9/docz/) makes it easy to write and publish beautiful interactive documentation for your code. Create MDX files showcasing your code and Docz turns them into a live-reloading, production-ready site.
 
 
 - All of the issues for Docz are listed on this [page](https://github.com/aviyelverse/Open-Source-Requests/blob/main/docz.md), where you can pick them up and work on them.
