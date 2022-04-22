@@ -57,77 +57,77 @@ Enhancement and feature requests for _[MobSF](https://mobsf.github.io/docs/)_ ar
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/60)**
 
 ### **2. MobSF CI/CD integration with Jenkins**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/61)**
 
 ### **3. MobSF CI/CD integration with GitHub Actions**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/59)**
 
 ### **4. MobSF CI/CD integration with Travis CI**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/62)**
 
 ### **5. MobSF CI/CD integration with GitLab CI**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/63)**
 
 ### **6. Integrating MobSF REST API with React**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/64)**
 
 ### **7. Integrating MobSF REST API with Angular**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/65)**
 
 ### **8. Integrating MobSF REST API with Vanilla JavaScript**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/66)**
 
 ### **9. Integrating MobSF REST API with Python**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/67)**
 
 ### **10. Integrating MobSF REST API with Ruby**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/68)**
 
 ### **11. Integrating MobSF REST API with Golang**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/72)**
 
 ---
 
@@ -146,7 +146,7 @@ Could we put the font file in the code repository or use CDN?
 - **Posted by**: _[@magaofei](https://github.com/magaofei)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1870">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1870)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/1)**
 
 ---
 
@@ -168,7 +168,7 @@ I currently use my program called dora but if MobSF had this inbuilt, it would b
 - **Posted by**: _[@sdushantha](https://github.com/sdushantha)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1843">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1843)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/2)**
 
 ---
 
@@ -183,7 +183,7 @@ Allow the browser access all sorts of files
 - **Posted by**: _[@elig0n](https://github.com/elig0n)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1724">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1724)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/3)**
 
 ---
 
@@ -209,7 +209,7 @@ Django wiki about splitting settings: https://code.djangoproject.com/wiki/SplitS
 - **Posted by**: _[@nelenkov](https://github.com/nelenkov)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1697">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1697)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/4)**
 
 ---
 
@@ -226,7 +226,7 @@ The horizontal scrollbar might be set to stick at the page bottom if it would be
 - **Posted by**: _[@serkonda7](https://github.com/serkonda7)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1693">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1693)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/5)**
 
 ---
 
@@ -239,7 +239,7 @@ It is not a good practise to run a docker image as root. It would be a good impr
 - **Posted by**: _[@javixeneize](https://github.com/javixeneize)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1639">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1639)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/6)**
 
 ---
 
@@ -257,7 +257,7 @@ While on PC there is more freedom to resize a window and zoom-out, on Android 9 
 - **Posted by**: _[@elig0n](https://github.com/elig0n)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1569">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1569)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/7)**
 
 ---
 
@@ -266,7 +266,7 @@ While on PC there is more freedom to resize a window and zoom-out, on Android 9 
 - **Posted by**: _[@nuschpl](https://github.com/nuschpl)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1603">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1603)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/8)**
 
 ---
 
@@ -278,7 +278,7 @@ sort-able would be amazing but being able to just view it on the page would be g
 - **Posted by**: _[@thisguy23](https://github.com/thisguy23)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1526">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1526)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/9)**
 
 ---
 
@@ -299,7 +299,7 @@ We could, maybe, specify a parameter indicating what the source directory is. Ho
 - **Posted by**: _[@williams-brian](https://github.com/williams-brian)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1553">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1553)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/10)**
 
 ---
 
@@ -324,7 +324,7 @@ I suggest to add the following information to JSON Report API:
 - **Posted by**: _[@ghost](https://github.com/ghost)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1357">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1357)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/11)**
 
 ---
 
@@ -349,7 +349,7 @@ Add any other context or screenshots about the feature request here.
 - **Posted by**: _[@ajinabraham](https://github.com/ajinabraham)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1431">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1431)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/12)**
 
 ---
 
@@ -370,7 +370,7 @@ Using tools such as GrapeFruit https://github.com/ChiChou/Grapefruit or https://
 - **Posted by**: _[@uBadRequest](https://github.com/uBadRequest)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1453">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1453)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/13)**
 
 ---
 
@@ -393,7 +393,7 @@ Issues in other sections do not contain contextual information (or provide a fie
 - **Posted by**: _[@ghost](https://github.com/ghost)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1356">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1356)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/14)**
 
 ---
 
@@ -406,7 +406,7 @@ Adding "Submit" button in VirusTotal section will be helpful if we need to submi
 - **Posted by**: _[@baharkhalid](https://github.com/baharkhalid)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1349">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1349)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/15)**
 
 ---
 
@@ -427,7 +427,7 @@ Thanks
 - **Posted by**: _[@blshkv](https://github.com/blshkv)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1271">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1271)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/16)**
 
 ---
 
@@ -450,7 +450,7 @@ Combining these two things could potentially give you the proper info.plist cont
 - **Posted by**: _[@Nicoolai](https://github.com/Nicoolai)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1241">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1241)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/17)**
 
 ---
 
@@ -465,7 +465,7 @@ Combining these two things could potentially give you the proper info.plist cont
 - **Posted by**: _[@ajinabraham](https://github.com/ajinabraham)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F249">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/249)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/18)**
 
 ---
 
@@ -485,7 +485,7 @@ I am currently working on attempting to pull the HTML down and use Beautiful sou
 - **Posted by**: _[@Maleus](https://github.com/Maleus)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1155">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1155)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/19)**
 
 ---
 
@@ -499,7 +499,7 @@ That would be a huge feature for Mobile-Security-Framework-MobSF, before the MIS
 - **Posted by**: _[@firebitsbr](https://github.com/firebitsbr)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1147">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1147)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/20)**
 
 ---
 
@@ -511,7 +511,7 @@ I don't find the scan from zip code source file very useful.
 - **Posted by**: _[@ahmedadouani](https://github.com/ahmedadouani)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1146">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1146)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/21)**
 
 ---
 
@@ -522,7 +522,7 @@ It would be great if a dark mode theme could be added to MobSF web interface.
 - **Posted by**: _[@aress31](https://github.com/aress31)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1088">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1088)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/22)**
 
 ---
 
@@ -537,7 +537,7 @@ Love the tool, thanks!
 - **Posted by**: _[@MrVaughan](https://github.com/MrVaughan)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F468">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/468)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/23)**
 
 ---
 
@@ -550,7 +550,7 @@ This would make tracking back through the code much easier. At present you have 
 - **Posted by**: _[@Simon-Davies](https://github.com/Simon-Davies)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F606">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/606)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/24)**
 
 ---
 
@@ -563,7 +563,7 @@ http://retirejs.github.io/retire.js/
 - **Posted by**: _[@richnetdesign](https://github.com/richnetdesign)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1368">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/368)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/25)**
 
 ---
 
@@ -572,7 +572,7 @@ http://retirejs.github.io/retire.js/
 - **Posted by**: _[@ajinabraham](https://github.com/ajinabraham)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F135">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/135)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/26)**
 
 ---
 
@@ -583,7 +583,7 @@ https://github.com/MindMac/AndroidUnusedPermissions
 - **Posted by**: _[@bugwrangler](https://github.com/bugwrangler)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F269">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/269)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/27)**
 
 ---
 
@@ -594,7 +594,7 @@ Hi, I read windows support is limited to appx files. I was wondering if appxbund
 - **Posted by**: _[@lucacapacci](https://github.com/lucacapacci)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F254">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/254)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/28)**
 
 ---
 
@@ -609,7 +609,7 @@ Not a direct bug.
 - **Posted by**: _[@ajinabraham](https://github.com/ajinabraham)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F355">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/355)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/29)**
 
 ---
 
@@ -620,7 +620,7 @@ An utility section that provides interface to decompile to smali, recompile afte
 - **Posted by**: _[@imdadvs](https://github.com/imdadvs)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F110">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/110)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/30)**
 
 ---
 
@@ -635,6 +635,6 @@ Greetings!
 - **Posted by**: _[@VainlyStrain](https://github.com/VainlyStrain)_
 - <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faviyel-request-board.herokuapp.com%2Fmobsf%2F1614">
 - **Standard**: _Unpaid_
-- **[Issue Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1614)**
+- **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/31)**
 
 ---
