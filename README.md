@@ -3,6 +3,8 @@
 Aviyel is on a mission to help Open Source projects sustain by creating communities around them and by incentivizing the contributors. 
 All of the enhancement and feature requests are listed here, and community can pick the ones they want to complete and be rewarded for completing the same.
 
+**PLEASE READ THE [GUIDELINES](GUIDELINES.md) BEFORE WORKING ON A REQUEST.**
+
 Checkout the Aviyel platform's [projects](https://aviyel.com/projects) page to see all of the amazing projects.
 
 To learn more about the projects, visit their about page. We also have an exhaustive list of all the FAQs about these projects to help you get a better working understanding of them. All the relevant links are provided below.
