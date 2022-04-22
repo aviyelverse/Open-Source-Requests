@@ -4,6 +4,19 @@ Enhancement and feature requests for _[MobSF](https://mobsf.github.io/docs/)_ ar
 
 ## Index
 
+### [Creation of templates](#creation-of-templates)
+   1. [MobSF CI/CD integration with Bitrise]()
+   2. [MobSF CI/CD integration with Jenkins]()
+   3. [MobSF CI/CD integration with GitHub Actions]()
+   4. [MobSF CI/CD integration with Travis CI]()
+   5. [MobSF CI/CD integration with GitLab CI]()
+   6. [Integrating MobSF REST API with React]()
+   7. [Integrating MobSF REST API with Angular]()
+   8. [Integrating MobSF REST API with Python]()
+   9. [Integrating MobSF REST API with Golang]()
+   10. [Integrating MobSF REST API with Vanilla JavaScript]()
+   11. [Integrating MobSF REST API with Ruby]()
+
 ### [Code Enhancement/Feature Requests](#code-enhancementfeature-requests)
    1. [CSS file loading fail in China](#1-css-file-loading-fail-in-china)
    2. [Find API keys/secrets by matching regex](#2-find-api-keyssecrets-by-matching-regex)
@@ -36,6 +49,89 @@ Enhancement and feature requests for _[MobSF](https://mobsf.github.io/docs/)_ ar
    29. [config.py used by USE_HOME needs to be updated in the background](#29-configpy-used-by-use_home-needs-to-be-updated-in-the-background)
    30. [Android: Enhancement : Edit Code, Save, Recompile and Intent Vulnerability POC Generation](#30-android-enhancement--edit-code-save-recompile-and-intent-vulnerability-poc-generation)
    31. [Integration of Library Detection & Analysis into MobSF](#31-integration-of-library-detection--analysis-into-mobsf)
+
+## Creation of templates
+
+### **1. MobSF CI/CD integration with Bitrise**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **2. MobSF CI/CD integration with Jenkins**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **3. MobSF CI/CD integration with GitHub Actions**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **4. MobSF CI/CD integration with Travis CI**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **5. MobSF CI/CD integration with GitLab CI**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **6. Integrating MobSF REST API with React**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **7. Integrating MobSF REST API with Angular**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **8. Integrating MobSF REST API with Vanilla JavaScript**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **9. Integrating MobSF REST API with Python**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **10. Integrating MobSF REST API with Ruby**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **11. Integrating MobSF REST API with Golang**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/bec733495c564a8d9e1428ddccd02e75?v=b406f5c8dea44bbf9673521a8b57c1f9)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+---
+
+
 
 ## Code Enhancement/Feature Requests
 
