@@ -357,26 +357,26 @@ More to come
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/Medusa-4b4228a60d824da98ffe56d2715a1969)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/82)**
 
 ### **2. How to integrate Brightpearl into Medusa**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/Medusa-4b4228a60d824da98ffe56d2715a1969)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/84)**
 
 ### **3. How to integrate Algolia with Medusa**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/Medusa-4b4228a60d824da98ffe56d2715a1969)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/86)**
 
 ### **4. How to add third party apps and plugins to Medusa Store**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/Medusa-4b4228a60d824da98ffe56d2715a1969)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/88)**
 
