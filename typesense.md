@@ -10,6 +10,12 @@ Enhancement and feature requests for _[Typesense](https://typesense.org/)_ are l
    - [Curation API and filters](#3-curation-api-and-filters)
    - [Ranking based on Relevance and Popularity connected to Override](#4-ranking-based-on-relevance-and-popularity-connected-to-override)
    - [Default Value When Optional = "True"](#5-default-value-when-optional--true)
+2. [Creation of Templates and Demos](#creating-template-and-demos)
+   - Create a Demo of Anime instant-search app
+   - Build a search application with Typesense, React and Tailwind
+   - Build an instant full-text search in JavaScript with Typesense
+   - Adding Typesense search to an Astro Static Generated Website
+   - Building a search UI with Typesense
 
 ## Code Enhancement/Feature Requests
 
@@ -141,3 +147,42 @@ Typsense Version: cloud.
 - **[Issue Link](https://github.com/typesense/typesense/issues/346)**
 
 ---
+
+## Creating Templates and Demos
+
+### **1. Create a Demo of Anime instant-search app**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/Typesense-43e84e9df7ea4e44889d3cb1f1c4c6c1)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **2. Build a search application with Typesense, React and Tailwind**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/Typesense-43e84e9df7ea4e44889d3cb1f1c4c6c1)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+      
+### **3. Build an instant full-text search in JavaScript with Typesense**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/Typesense-43e84e9df7ea4e44889d3cb1f1c4c6c1)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **4. Adding Typesense search to an Astro Static Generated Website**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/Typesense-43e84e9df7ea4e44889d3cb1f1c4c6c1)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **5. Building a search UI with Typesense**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/Typesense-43e84e9df7ea4e44889d3cb1f1c4c6c1)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+      
+---      
