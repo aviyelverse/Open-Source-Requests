@@ -110,97 +110,97 @@ Check if entityId already exists and then throw an error if the details don't ma
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/94)**
 
 ### **2. How to add SAML Single Sign-On service to an Angular application?**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/96)**
 
 ### **3. How to add SAML Single Sign-On service to a Svelte application?**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/98)**
 
 ### **4. How to build and deploy SAML service on AWS?**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/99)**
 
 ### **5. How to build and deploy SAML service on Docker?**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/100)**
 
 ### **6. How to deploy SAML Jackson as a separate service?**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/101)**
    - 
 ### **7. How to integrate SAML Jackson with Express.js and Auth0?**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/102)**
 
 ### **8. How to integrate SAML Jackson with the Nodejs application?**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/103)**
 
 ### **9. How to build and deploy SAML service on Digital Ocean?**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/104)**
 
 ### **10. How to build and deploy SAML service on Vercel?**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/105)**
 
 ### **11. How to add SAML Single Sign-On service to a Vuejs application?**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/106)**
 
 ### **12. How to add SAML Single Sign-On service to a Nextjs app?**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/107)**
 
 ### **13. How to add SAML Single Sign-On service to a Reactjs app?**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/108)**
 
 ### **14. How to integrate SAML Jackson with Supertokens and Express.js?**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/BoxyHQ-b4940ecefc574ac0a85833b5aeebc82f)
    - **Standard**: _Unpaid_
-   - **[Issue Link]()**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/109)**
 
 ---
