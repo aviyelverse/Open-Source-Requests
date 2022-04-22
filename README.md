@@ -47,7 +47,7 @@ The Open Source shopify alternative. [Medusa](https://aviyel.com/projects/10/med
 
 ![Typesense](https://aviyel.com/cdn-cgi/image/width=56,format=auto/https://github.com/typesense.png)
 
-[Typesense]((https://aviyel.com/projects/8/typesense)) is a fast, typo-tolerant search engine for building delightful search experiences. An Open Source Algolia Alternative & An Easier-to-Use ElasticSearch Alternative..
+[Typesense]((https://aviyel.com/projects/8/typesense)) is a fast, typo-tolerant search engine for building delightful search experiences. An Open Source Algolia Alternative & An Easier-to-Use ElasticSearch Alternative.
 - All of the issues for Typesense are listed on this [page](https://github.com/aviyelverse/Open-Source-Requests/blob/main/typesense.md), where you can pick them up and work on them.
 - You can find FAQs for Typesense on this [link](https://aviyel.com/projects/8/typesense/questions).
 
