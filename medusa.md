@@ -4,30 +4,37 @@ All of the enhancement and feature requests for _[Medusa](https://medusajs.com/)
 
 ## Index
 
-1. [Non-Code Enhancement/Feature Requests](#non-code-enhancementfeature-requests)
-   - [Create an Ecommerce App with Medusa and React Native](#1-create-an-ecommerce-app-with-medusa-and-react-native)
-   - [Integrate Medusa with x tool - a how-to guide](#2-integrate-medusa-with-x-tool---a-how-to-guide)
-   - [Create an iOS Ecommerce App with Medusa](#3-create-an-ios-ecommerce-app-with-medusa)
-   - [Create an Android Ecommerce App with Medusa](#4-create-an-android-ecommerce-app-with-medusa)
-   - [Create an Ecommerce App with Flutter and Medusa](#5-create-an-ecommerce-app-with-flutter-and-medusa)
-2. [Code Enhancement/Feature Requests](#code-enhancementfeature-requests)
-   - [Support filtering price lists by customer groups](#1-support-filtering-price-lists-by-customer-groups)
-   - [API: Complete a batch operation](#2-api-complete-a-batch-operation)
-   - [API: Cancel a batch operation](#3-api-cancel-a-batch-operation)
-   - [API: List batch operations](#4-api-list-batch-operations)
-   - [API: Get a batch job](#5-api-get-a-batch-job)
-   - [API: Create a batch operation](#6-api-create-a-batch-operation)
-   - [Implement OrderExportHandler](#7-implement-orderexporthandler)
-   - [Implement ProductImportHandler](#8-implement-productimporthandler)
-   - [Batch job *Handlers](#9-batch-job-handlers)
-   - [BatchJob entity model](#10-batchjob-entity-model)
-   - [Add DELETE /store/auth to @medusajs/medusa-js](#11-add-delete-storeauth-to-medusajsmedusa-js)
-   - [WebSocket/Server sent events implementation](#12-websocketserver-sent-events-implementation)
-   - [Update FileService to allow for protected uploads/downloads + streaming](#13-update-fileservice-to-allow-for-protected-uploadsdownloads--streaming)
-   - [Implement BatchJobService](#14-implement-batchjobservice)
-   - [Add POST/DELETE /admin/collections/:id/products/batch endpoints to @medusajs/medusa-js and medusa-react](#15-add-postdelete-admincollectionsidproductsbatch-endpoints-to-medusajsmedusa-js-and-medusa-react)
-   - [Enhancement: Ability to use admin middleware in custom APIs](#16-enhancement-ability-to-use-admin-middleware-in-custom-apis)
-   - [Select discount.rule.valid_for products by collection, type, and tags](#17-select-discountrulevalid_for-products-by-collection-type-and-tags)
+### [Non-Code Enhancement/Feature Requests](#non-code-enhancementfeature-requests)
+   1. [Create an Ecommerce App with Medusa and React Native](#1-create-an-ecommerce-app-with-medusa-and-react-native)
+   2. [Integrate Medusa with x tool - a how-to guide](#2-integrate-medusa-with-x-tool---a-how-to-guide)
+   3. [Create an iOS Ecommerce App with Medusa](#3-create-an-ios-ecommerce-app-with-medusa)
+   4. [Create an Android Ecommerce App with Medusa](#4-create-an-android-ecommerce-app-with-medusa)
+   5. [Create an Ecommerce App with Flutter and Medusa](#5-create-an-ecommerce-app-with-flutter-and-medusa)
+
+### [Code Enhancement/Feature Requests](#code-enhancementfeature-requests)
+   1. [Support filtering price lists by customer groups](#1-support-filtering-price-lists-by-customer-groups)
+   2. [API: Complete a batch operation](#2-api-complete-a-batch-operation)
+   3. [API: Cancel a batch operation](#3-api-cancel-a-batch-operation)
+   4. [API: List batch operations](#4-api-list-batch-operations)
+   5. [API: Get a batch job](#5-api-get-a-batch-job)
+   6. [API: Create a batch operation](#6-api-create-a-batch-operation)
+   7. [Implement OrderExportHandler](#7-implement-orderexporthandler)
+   8. [Implement ProductImportHandler](#8-implement-productimporthandler)
+   9. [Batch job *Handlers](#9-batch-job-handlers)
+   10. [BatchJob entity model](#10-batchjob-entity-model)
+   11. [Add DELETE /store/auth to @medusajs/medusa-js](#11-add-delete-storeauth-to-medusajsmedusa-js)
+   12. [WebSocket/Server sent events implementation](#12-websocketserver-sent-events-implementation)
+   13. [Update FileService to allow for protected uploads/downloads + streaming](#13-update-fileservice-to-allow-for-protected-uploadsdownloads--streaming)
+   14. [Implement BatchJobService](#14-implement-batchjobservice)
+   15. [Add POST/DELETE /admin/collections/:id/products/batch endpoints to @medusajs/medusa-js and medusa-react](#15-add-postdelete-admincollectionsidproductsbatch-endpoints-to-medusajsmedusa-js-and-medusa-react)
+   16. [Enhancement: Ability to use admin middleware in custom APIs](#16-enhancement-ability-to-use-admin-middleware-in-custom-apis)
+   17. [Select discount.rule.valid_for products by collection, type, and tags](#17-select-discountrulevalid_for-products-by-collection-type-and-tags)
+  
+### [Creation of Templates]()
+   1. [How to set up Gatsby source plugin for building websites using Medusa as data source]()
+   2. [How to integrate Brightpearl into Medusa]()
+   3. [How to integrate Algolia with Medusa]()
+   4. [How to add third party apps and plugins to Medusa Store]()
 
 ## Non-Code Enhancement/Feature Requests
 
@@ -342,3 +349,34 @@ More to come
 - **[Issue Link](https://github.com/medusajs/medusa/issues/419)**
 
 ---
+
+## Creation of templates
+
+### **1. How to set up Gatsby source plugin for building websites using Medusa as data source**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/Medusa-4b4228a60d824da98ffe56d2715a1969)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **2. How to integrate Brightpearl into Medusa**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/Medusa-4b4228a60d824da98ffe56d2715a1969)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **3. How to integrate Algolia with Medusa**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/Medusa-4b4228a60d824da98ffe56d2715a1969)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
+### **4. How to add third party apps and plugins to Medusa Store**
+
+   - **Posted by**: Aviyel Team
+   - [Check Status](https://sturdy-locust-74a.notion.site/Medusa-4b4228a60d824da98ffe56d2715a1969)
+   - **Standard**: _Unpaid_
+   - **[Issue Link]()**
+
