@@ -13,7 +13,7 @@ To learn more about the projects, visit their about page. We also have an exhaus
 
 ![BoxyHQ](https://aviyel.com/cdn-cgi/image/width=56,format=auto/assets/uploads/static/boxyhq.png)
 
-[BoxyHQ]((https://aviyel.com/projects/11/boxyhq)) helps startups enable enterprise features in any SaaS app with just a few lines of code. Integrate SAML, Audit Logs, Privacy Vault and Role Based Access in minutes. Open source and free. The [project roadmap](https://github.com/orgs/boxyhq/projects/3) is available publicly.
+[BoxyHQ](https://aviyel.com/projects/11/boxyhq) helps startups enable enterprise features in any SaaS app with just a few lines of code. Integrate SAML, Audit Logs, Privacy Vault and Role Based Access in minutes. Open source and free. The [project roadmap](https://github.com/orgs/boxyhq/projects/3) is available publicly.
 - All of the issues for BoxyHQ are listed on this [page](https://github.com/aviyelverse/Open-Source-Requests/blob/main/boxyhq.md), where you can pick them up and work on them.
 - You can find FAQs for BoxyHQ on this [link](https://aviyel.com/projects/11/boxyhq/questions).
 
@@ -47,7 +47,7 @@ The Open Source shopify alternative. [Medusa](https://aviyel.com/projects/10/med
 
 ![Typesense](https://aviyel.com/cdn-cgi/image/width=56,format=auto/https://github.com/typesense.png)
 
-[Typesense]((https://aviyel.com/projects/8/typesense)) is a fast, typo-tolerant search engine for building delightful search experiences. An Open Source Algolia Alternative & An Easier-to-Use ElasticSearch Alternative.
+[Typesense](https://aviyel.com/projects/8/typesense) is a fast, typo-tolerant search engine for building delightful search experiences. An Open Source Algolia Alternative & An Easier-to-Use ElasticSearch Alternative.
 - All of the issues for Typesense are listed on this [page](https://github.com/aviyelverse/Open-Source-Requests/blob/main/typesense.md), where you can pick them up and work on them.
 - You can find FAQs for Typesense on this [link](https://aviyel.com/projects/8/typesense/questions).
 
