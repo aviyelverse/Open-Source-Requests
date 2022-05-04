@@ -2,6 +2,8 @@
 
 Enhancement and feature requests for _[Typesense](https://typesense.org/)_ are listed here, and community can pick the ones they want to complete and be rewarded for completing them.
 
+**BEFORE PICKING UP AN ISSUE, PLEASE ENSURE IT'S OPEN FOR CONTRIBUTIONS.**
+
 ## Index
 
 ### [Code Enhancement/Feature Requests](#code-enhancementfeature-requests)
