@@ -20,7 +20,7 @@ The Request Board has a curation of contribution opportunities that members of t
 ![github-issue](guideline-images/github-issue.png)
 
 
-For code issues, we would recommend you to get the issue assigned to you on both the Open-Source-Requests and the original project repositories, before you start working on it. For non-code issues, please get the issue on Open-Source-Requests assigned to you and also make sure you contact the request owner.
+For code issues, we would recommend you to get the issue assigned to you on both the Open-Source-Requests and the original project repositories, before you start working on it. For non-code issues, please get the issue on Open-Source-Requests assigned to you and also make sure you contact the request owner as mentioned in the issue link.
  
  
 
