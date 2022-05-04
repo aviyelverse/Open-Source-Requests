@@ -9,6 +9,8 @@ Checkout the Aviyel platform's [projects](https://aviyel.com/projects) page to s
 
 To learn more about the projects, visit their about page. We also have an exhaustive list of all the FAQs about these projects to help you get a better working understanding of them. All the relevant links are provided below.
 
+**BEFORE PICKING UP AN ISSUE, PLEASE ENSURE IT'S OPEN FOR CONTRIBUTIONS.**
+
 ## 1. **BoxyHQ**
 
 ![BoxyHQ](https://aviyel.com/cdn-cgi/image/width=56,format=auto/assets/uploads/static/boxyhq.png)
