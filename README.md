@@ -1,7 +1,8 @@
 # Request Board for Open Source Projects
 
 Aviyel is on a mission to help Open Source projects sustain by creating communities around them and by incentivizing the contributors. 
-All of the enhancement and feature requests are listed here, and community can pick the ones they want to complete and be rewarded for completing the same.
+
+Open Source Request Board that has a curation of several code and non-code opportunities which include paid requests as well!
 
 **PLEASE READ THE [GUIDELINES](GUIDELINES.md) BEFORE WORKING ON A REQUEST.**
 
