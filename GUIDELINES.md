@@ -14,14 +14,14 @@ The Request Board has a curation of contribution opportunities that members of t
 
 ![issue-link-hightlighted](guideline-images/issue-link-highlight.png)
 
-4. You'll be directed to the issues tab where you'll see the original Issue Link (highlighted in the image below). 
+4. You'll be redirected to the issues tab where you'll see the original Issue Link (highlighted in the image below). 
 
 ![github-issue](guideline-images/github-issue.png)
 
 
-For code issues, we would recommend you to get the issue assigned to you at both the Open-Source-Requests and the original project repositories before you start working on it. For non-code issues, please get the issue on Open-Source-Requests assigned to you and also make sure you contact the request owner.
+For code issues, we would recommend you to get the issue assigned to you on both the Open-Source-Requests and the original project repositories, before you start working on it. For non-code issues, please get the issue on Open-Source-Requests assigned to you and also make sure you contact the request owner.
  
  
 
 
-**In case of any queries, please reach out to [siddharth@aviyel.com](mailto:siddharth@aviyel.com)**
+**In case of any queries, please reach out to [siddharth@aviyel.com](mailto:siddharth@aviyel.com) or [sankalp.swami@aviyel.com](mailto:sankalp.swami@aviyel.com)**
