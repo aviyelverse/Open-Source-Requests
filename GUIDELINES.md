@@ -1,7 +1,27 @@
-Aviyel is on a mission to help Open Source projects sustain by building communities around them and incentivizing contributors. We are placing gigs on this repository so that members of the community who are already familiar with the projects may take them up and get to work.
+The Request Board has a curation of contribution opportunities that members of the community may attempt.
 
-### Before we begin, there are a few things to consider.
+### Before you begin, there are a few things we would want to bring to your notice
 
-- We are just publishing these gigs to make them more segregated and accessible.
-- Please check that an issue is open for contributions before picking it up.
-- And, before you pick up an issue, please create comment on the specific issue in the issue tabs so we can assign to you and keep track of it's availability.
+- We, at Aviyel, are responsible only for curating the requests. Any payment related to a request completion should be handled directly between the request owner and contributor.
+- Please check the status of an issue before you start working on it.
+
+
+### Process to contribute
+
+1. Click on the .md file associated to a project.
+2. Select an issue from Index that you'd want to work on.
+3. Once you have chosen an issue to work on, click on Issue Link as highlighted in the image below
+
+![issue-link-hightlighted](guideline-images/issue-link-highlight.png)
+
+4. You'll be directed to the issues tab where you'll see the original Issue Link (highlighted in the image below). 
+
+![github-issue](guideline-images/github-issue.png)
+
+
+For code issues, we would recommend you to get the issue assigned to you at both the Open-Source-Requests and the original project repositories before you start working on it. For non-code issues, please get the issue on Open-Source-Requests assigned to you and also make sure you contact the request owner.
+ 
+ 
+
+
+**In case of any queries, please reach out to [siddharth@aviyel.com](mailto:siddharth@aviyel.com)**
