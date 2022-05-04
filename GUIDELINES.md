@@ -4,6 +4,7 @@ The Request Board has a curation of contribution opportunities that members of t
 
 - We, at Aviyel, are responsible only for curating the requests. Any payment related to a request completion should be handled directly between the request owner and contributor.
 - Please check the status of an issue before you start working on it.
+- To be a part of the discussions related to the requests, join [Aviyel's discord server](https://discord.com/invite/7DCwyYGSst).
 
 
 ### Process to contribute
