@@ -2,6 +2,8 @@
 
 All of the enhancement and feature requests for _[Docz](https://docz.site/)_ are listed here, and community can pick the ones they want to complete and be rewarded for completing them.
 
+**BEFORE PICKING UP AN ISSUE, PLEASE ENSURE IT'S OPEN FOR CONTRIBUTIONS.**
+
 ## Index
   
 ### [Creation of Templates](#creation-of-templates-1)
