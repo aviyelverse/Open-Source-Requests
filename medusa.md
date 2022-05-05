@@ -1,6 +1,7 @@
-## Medusa Enhancement Requests
+## Medusa Requests
 
-All of the enhancement and feature requests for _[Medusa](https://medusajs.com/)_ are listed here, and community can pick the ones they want to complete and be rewarded for completing them.
+All of the requests for _[Medusa](https://medusajs.com/)_ are listed here, and community can pick the ones they want to work on.
+
 
 **BEFORE PICKING UP AN ISSUE, PLEASE ENSURE IT'S OPEN FOR CONTRIBUTIONS.**
 
