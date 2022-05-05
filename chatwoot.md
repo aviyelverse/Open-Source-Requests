@@ -22,33 +22,33 @@ All of the  requests for _[Chatwoot](https://www.chatwoot.com/)_ are listed here
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/Chatwoot-27475c4c2ebd48c2a456e6caf525434f)
    - **Standard**: _Unpaid_
-   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/)**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/117)**
 
 ### **2. Integrate Chatwoot inside Nextjs project**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/Chatwoot-27475c4c2ebd48c2a456e6caf525434f)
    - **Standard**: _Unpaid_
-   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/)**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/118)**
 
 ### **3. Integrate Chatwoot inside Angular project**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/Chatwoot-27475c4c2ebd48c2a456e6caf525434f)
    - **Standard**: _Unpaid_
-   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/)**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/119)**
 
 ### **4. Integrate Chatwoot inside Vuejs project**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/Chatwoot-27475c4c2ebd48c2a456e6caf525434f)
    - **Standard**: _Unpaid_
-   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/)**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/120)**
 
 ### **5. Integrate Chatwoot inside Vanilla HTML project**
 
    - **Posted by**: Aviyel Team
    - [Check Status](https://sturdy-locust-74a.notion.site/Chatwoot-27475c4c2ebd48c2a456e6caf525434f)
    - **Standard**: _Unpaid_
-   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/)**
+   - **[Issue Link](https://github.com/aviyelverse/Open-Source-Requests/issues/121)**
 
