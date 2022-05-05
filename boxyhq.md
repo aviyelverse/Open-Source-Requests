@@ -1,6 +1,6 @@
-## BoxyHQ Enhancement Requests
+## BoxyHQ Requests
 
-All of the enhancement and feature requests for _[BoxyHQ](https://boxyhq.com/)_ are listed here, and community can pick the ones they want to complete and be rewarded for completing them.
+All of the  requests for _[BoxyHQ](https://boxyhq.com/)_ are listed here, and community can pick the ones they want to complete.
 
 **BEFORE PICKING UP AN ISSUE, PLEASE ENSURE IT'S OPEN FOR CONTRIBUTIONS.**
 
