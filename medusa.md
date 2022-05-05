@@ -40,6 +40,8 @@ All of the requests for _[Medusa](https://medusajs.com/)_ are listed here, and c
 
 ---
 
+### Please make sure the topic is available and sign up [here](https://medusajs.notion.site/Write-for-us-74a2bf43b4ce43eeba200382f599321a) to get assigned.
+
 ### **1. Create an Ecommerce App with Medusa and React Native**
 
 Apps has been of long time interest, we are looking to do a cool write up on it but are no experts ourselves.
