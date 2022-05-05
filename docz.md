@@ -1,6 +1,6 @@
-## Docz Enhancement Requests
+## Docz Requests
 
-All of the enhancement and feature requests for _[Docz](https://docz.site/)_ are listed here, and community can pick the ones they want to complete and be rewarded for completing them.
+All of the  requests for _[Docz](https://docz.site/)_ are listed here, and community can pick the ones they want to complete.
 
 **BEFORE PICKING UP AN ISSUE, PLEASE ENSURE IT'S OPEN FOR CONTRIBUTIONS.**
 
