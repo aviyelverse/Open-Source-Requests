@@ -1,6 +1,6 @@
-# Typesense Enhancement Requests
+# Typesense Requests
 
-Enhancement and feature requests for _[Typesense](https://typesense.org/)_ are listed here, and community can pick the ones they want to complete and be rewarded for completing them.
+Requests for _[Typesense](https://typesense.org/)_ are listed here, and community can pick the ones they want to work on.
 
 **BEFORE PICKING UP AN ISSUE, PLEASE ENSURE IT'S OPEN FOR CONTRIBUTIONS.**
 
