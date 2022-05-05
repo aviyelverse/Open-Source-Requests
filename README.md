@@ -20,17 +20,23 @@ To learn more about the projects, visit their about page. We also have an exhaus
 - All of the issues for BoxyHQ are listed on this [page](https://github.com/aviyelverse/Open-Source-Requests/blob/main/boxyhq.md), where you can pick them up and work on them.
 - You can find FAQs for BoxyHQ on this [link](https://aviyel.com/projects/11/boxyhq/questions).
 
-## 2. **Docz**
+## 2. **Chatwoot**
+
+![Chatwoot](https://aviyel.com/cdn-cgi/image/width=56,format=auto/https://github.com/chatwoot.png)
+
+[Chatwoot](https://aviyel.com/projects/6/chatwoot) Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. The [project roadmap](https://github.com/orgs/chatwoot/projects/19) is available publicly.
+- All of the issues for Chatwoot are listed on this [page](https://github.com/aviyelverse/Open-Source-Requests/blob/main/chatwoot.md), where you can pick them up and work on them.
+- You can find FAQs for Chatwoot on this [link](https://aviyel.com/projects/6/chatwoot/questions).
+
+## 3. **Docz**
 
 ![Docz](https://aviyel.com/cdn-cgi/image/width=56,format=auto/assets/uploads/static/docz.png)
 
 [Docz](https://aviyel.com/projects/9/docz/) makes it easy to write and publish beautiful interactive documentation for your code. Create MDX files showcasing your code and Docz turns them into a live-reloading, production-ready site.
-
-
 - All of the issues for Docz are listed on this [page](https://github.com/aviyelverse/Open-Source-Requests/blob/main/docz.md), where you can pick them up and work on them.
 - You can find FAQs for Docz on this [link](https://aviyel.com/projects/9/docz/questions).
 
-## 3. **Medusa**
+## 4. **Medusa**
 
 ![Medusa](https://aviyel.com/cdn-cgi/image/width=56,format=auto/assets/uploads/static/medusa.png)
 
@@ -38,7 +44,7 @@ The Open Source shopify alternative. [Medusa](https://aviyel.com/projects/10/med
 - All of the issues for Medusa are listed on this [page](https://github.com/aviyelverse/Open-Source-Requests/blob/main/medusa.md), where you can pick them up and work on them.
 - You can find FAQs for Medusa on this [link](https://aviyel.com/projects/10/medusa/questions).
 
-## 4. **Mobile Security Framework**
+## 5. **Mobile Security Framework**
 
 ![MobSF](https://aviyel.com/cdn-cgi/image/width=80,format=auto/https://github.com/MobSF.png)
 
@@ -46,7 +52,7 @@ The Open Source shopify alternative. [Medusa](https://aviyel.com/projects/10/med
 - All of the issues for MobSF are listed on this [page](https://github.com/aviyelverse/Open-Source-Requests/blob/main/mobsf.md), where you can pick them up and work on them.
 - You can find FAQs for MobSF on this [link](https://aviyel.com/projects/7/mobile-security-framework/questions).
 
-## 5. **Typesense**
+## 6. **Typesense**
 
 ![Typesense](https://aviyel.com/cdn-cgi/image/width=56,format=auto/https://github.com/typesense.png)
 
