@@ -24,5 +24,6 @@ For code issues, we would recommend you to get the issue assigned to you on both
  
  
 
+If you are working on templates or demos, please send your PRs to this [repo](https://github.com/aviyelverse/project-templates-and-demos). Please add your code to the folder with the name of the project you are working on.
 
 **In case of any queries, please reach out to [siddharth@aviyel.com](mailto:siddharth@aviyel.com) or [sankalp.swami@aviyel.com](mailto:sankalp.swami@aviyel.com)**
